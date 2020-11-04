@@ -1,0 +1,11 @@
+h1 {
+  color: green;
+  background-color: grey;
+  text-align: center;
+  width: 290px;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url("./silverware.jpg");
+}
